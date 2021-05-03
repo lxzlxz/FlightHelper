@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EV4035</key>
+	<array>
+		<string>ROA</string>
+		<string>ORD</string>
+		<string>Roanoke Regional Airport</string>
+		<string>United States</string>
+		<string>America/New_York</string>
+		<string>-5</string>
+		<string>Chicago O\&apos;hare International</string>
+		<string>United States</string>
+		<string>America/Chicago</string>
+		<string>-6</string>
+		<string>N/A</string>
+		<string>10:45:00</string>
+		<string>11:35:00</string>
+		<string></string>
+		<string></string>
+		<string>41.976913</string>
+		<string>-87.904880</string>
+		<string>37.320510</string>
+		<string>-79.970380</string>
+	</array>
+</dict>
+</plist>
